@@ -1,0 +1,7 @@
+numpy >= 1.15
+pandas >= 0.23
+pytorch >= 1.0
+pytorch-vision >= 0.2
+scikit-image >= 0.14
+scikit-learn >= 0.20
+scipy >= 1.1
